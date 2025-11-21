@@ -9,7 +9,8 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 6px;
+  padding: 8px;
+  margin: 8px;
 }
 
 
@@ -19,14 +20,13 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-  margin: 6px;
 }
 
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
   display: flex;
-  margin: 6px;
+  gap: 8px;
 }
 
 a {
